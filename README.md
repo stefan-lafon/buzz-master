@@ -20,3 +20,10 @@ If you prefer to run it on your own machine using VSCode:
    Make sure you have Python installed, then run:
    ```bash
    pip install streamlit gTTS
+
+2. **Prepare your words:**
+   Create a words.txt file in the project folder and add your spelling words, one per line.
+
+3. **Launch the app:**
+   Run the following command in your terminal:
+   python -m streamlit run buzz_master.py
