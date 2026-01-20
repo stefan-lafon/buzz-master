@@ -26,4 +26,5 @@ If you prefer to run it on your own machine using VSCode:
 
 3. **Launch the app:**
    Run the following command in your terminal:
+   ```bash
    python -m streamlit run buzz_master.py
